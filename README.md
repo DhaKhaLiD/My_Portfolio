@@ -1,0 +1,2 @@
+Hello, My name is khalid, I'm 27 years old from Morocco, with financial master's degree and economics bachelor's degree. I've worked in various sectors such as retail, banking and automotive indusrtries with 4 years of experiece I'm seeking to switch my career to data analytics fields as risk analyst, financial data analyst, risk officier and complaince, financial analyst ans so on.
+You will find in this repository all projects made by me, showcasing my abilities and skills to tackle my new journey.
